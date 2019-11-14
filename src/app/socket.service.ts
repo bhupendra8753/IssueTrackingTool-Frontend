@@ -14,8 +14,8 @@ import { HttpErrorResponse, HttpParams } from '@angular/common/http'
 
 export class SocketService {
 
-  //private url = "http://api.appdevtest.xyz";
-  private url = "http://localhost:3000";
+  private url = "http://api.issuetracker.info";
+  //private url = "http://localhost:3000";
   private socket
   constructor(public http: HttpClient) {
     // console.log("inside socket constructor")
