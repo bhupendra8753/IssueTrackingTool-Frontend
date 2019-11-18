@@ -5,7 +5,7 @@
   }
   
   .container-fluid {
-    background-image: url(https://us.123rf.com/450wm/erakova/erakova1903/erakova190303411/119087673-stylish-geometric-texture-repeating-background-with-chaotic-forms-vector-ornament-for-wallpaper-fash.jpg?ver=6);
+    background-image: url(https://cdn.pixabay.com/photo/2015/12/13/18/33/christmas-1091551_1280.jpg);
     min-height: 100vh;
     min-width: 100vw;
   }
@@ -24,6 +24,7 @@
     border: 0;
     border-radius: 1rem;
     box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+    background-image: url(https://www.designbolts.com/wp-content/uploads/2013/02/Pineapple-cut-Grey-Seamless-Pattern-For-Website-Background.jpg);
   }
   
   .card-signup .card-title {
